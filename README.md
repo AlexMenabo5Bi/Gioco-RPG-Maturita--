@@ -19,6 +19,15 @@ Per ottenere l'eseguibile del gioco con gli attuali progressi, contattarmi in pr
 Microsoft Windows XP/Vista/7/8 richiesto.
 
 
+**Ambiente di sviluppo e software utilizzati**
+
+-RPG MAKER MV
+
+-PROJECT LIBRE
+
+-MICROSOFT EXCEL
+
+
 
 **Collaboratori** 
 
