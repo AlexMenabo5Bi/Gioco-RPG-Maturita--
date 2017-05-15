@@ -32,9 +32,13 @@ Microsoft Windows XP/Vista/7/8 richiesto.
 
 **Collaboratori** 
 
-Professoressa Lupo
+Professoressa Lupo (Creazione domande quiz)
 
-Professoressa Londino.
+Professoressa Londino (Creazione domande quiz)
+
+Cella Valerio
+ 
+Luca Volturno
 
 
 
