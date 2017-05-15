@@ -36,9 +36,9 @@ Professoressa Lupo (Creazione domande quiz)
 
 Professoressa Londino (Creazione domande quiz)
 
-Cella Valerio
+Cella Valerio (Scambio di idee)
  
-Luca Volturno
+Luca Volturno (Aiuto su GitHub)
 
 
 
