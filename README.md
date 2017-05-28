@@ -28,6 +28,8 @@ Microsoft Windows XP/Vista/7/8 richiesto.
 
 -MICROSOFT EXCEL
 
+-ENIGMA VIRTUAL BOX
+
 
 
 **Collaboratori** 
