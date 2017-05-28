@@ -30,6 +30,8 @@ Microsoft Windows XP/Vista/7/8 richiesto.
 
 -ENIGMA VIRTUAL BOX
 
+-PHOTOSHOP CS6
+
 
 
 **Collaboratori** 
